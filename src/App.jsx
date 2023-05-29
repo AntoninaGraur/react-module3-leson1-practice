@@ -1,12 +1,13 @@
 
 import './App.css';
-import FormToDo from './components/FormToDo/FormToDo';
+
+import ToDoList from './components/FormToDo/ToDoList/ToDoList';
 
 function App() {
   return (
-    <FormToDo>
+    <ToDoList>
      
-    </FormToDo>
+    </ToDoList>
   );
 }
 
